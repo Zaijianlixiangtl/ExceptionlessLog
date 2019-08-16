@@ -1,0 +1,17 @@
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\ExceptionLessLog.deps.json
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\ExceptionLessLog.runtimeconfig.json
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\ExceptionLessLog.runtimeconfig.dev.json
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\ExceptionLessLog.dll
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\ExceptionLessLog.pdb
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\EasyCard.Framework.LogHelper.dll
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\bin\Debug\netcoreapp2.2\EasyCard.Framework.LogHelper.pdb
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.csprojAssemblyReference.cache
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.csproj.CoreCompileInputs.cache
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.RazorAssemblyInfo.cache
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.RazorAssemblyInfo.cs
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.AssemblyInfoInputs.cache
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.AssemblyInfo.cs
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.RazorTargetAssemblyInfo.cache
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.csproj.CopyComplete
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.dll
+G:\MyCode\ExceptionLess\ExceptionLessLog\ExceptionLessLog\obj\Debug\netcoreapp2.2\ExceptionLessLog.pdb

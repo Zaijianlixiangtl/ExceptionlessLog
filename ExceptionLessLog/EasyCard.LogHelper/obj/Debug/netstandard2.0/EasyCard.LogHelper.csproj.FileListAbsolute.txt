@@ -1,0 +1,6 @@
+G:\Code\order\EasyCard.O2O\EasyCard.LogHelper\bin\Debug\netstandard2.0\EasyCard.LogHelper.deps.json
+G:\Code\order\EasyCard.O2O\EasyCard.LogHelper\bin\Debug\netstandard2.0\EasyCard.LogHelper.dll
+G:\Code\order\EasyCard.O2O\EasyCard.LogHelper\obj\Debug\netstandard2.0\EasyCard.LogHelper.csprojAssemblyReference.cache
+G:\Code\order\EasyCard.O2O\EasyCard.LogHelper\obj\Debug\netstandard2.0\EasyCard.LogHelper.csproj.CoreCompileInputs.cache
+G:\Code\order\EasyCard.O2O\EasyCard.LogHelper\obj\Debug\netstandard2.0\EasyCard.LogHelper.AssemblyInfoInputs.cache
+G:\Code\order\EasyCard.O2O\EasyCard.LogHelper\obj\Debug\netstandard2.0\EasyCard.LogHelper.AssemblyInfo.cs
